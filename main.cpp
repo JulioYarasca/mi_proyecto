@@ -1,6 +1,6 @@
 cmscmdicmisdmcisd
 
-using namespace std;
+hola hola hola using namespace std;
 
 int main(int argc, const char* argv[]) {
     // Verificar número de argumentos
